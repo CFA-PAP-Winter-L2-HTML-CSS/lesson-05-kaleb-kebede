@@ -21,3 +21,71 @@ h1 {
 
 
 /* ============ Student code ============= */
+
+body {
+  background-image: url("images/wallpaper-bg.jpg");
+  background-position: top center;
+}
+
+img {
+  height: 380px;
+  border: ridge 10px #af8b2b;
+
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 20px;
+
+  background-color: #2e1414;
+
+  box-shadow: 10px 15px 20px 5px black;
+}
+
+h1 {
+  background-color: #132c33;
+  margin: 40px auto 50px auto;
+  padding: 5px 50px 15px 50px;
+
+  text-shadow: 10px 15px 20px black;
+}
+
+/* ===== Practice Session: Colors and Complements ===== */
+
+p {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 18px 22px;
+  width: min(800px, 92%);
+  border: 8px solid transparent;
+  border-radius: 12px;
+}
+
+
+#ocean-blue {
+  background-color: #1e88e5; 
+  color: #ffffff;
+  border-color: #e1771a; 
+}
+
+#sunset-orange {
+  background-color: #ff7043; 
+  color: #ffffff;
+  border-color: #008fbc; 
+}
+
+#forest-green {
+  background-color: #2e7d32;
+  color: #ffffff;
+  border-color: #d182cd; 
+}
+
+#royal-purple {
+  background-color: #6a1b9a; 
+  color: #ffffff;
+  border-color: #95e465; 
+}
+
+#soft-sand {
+  background-color: #f5e6c8; 
+  color: #111111;
+  border-color: #0a1937; 
+}
